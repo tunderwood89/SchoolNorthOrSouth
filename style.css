@@ -5,25 +5,25 @@ ul {
     padding: 0;
   }
   a:link {
-    color: purple;
+    color: #ff7b00;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:visited {
-    color: purple;
+    color: #ff7b00;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:hover {
-    color: purple;
+    color: #ff7b00;
     background-color: transparent;
     text-decoration: transparent;
   }
   
   a:active {
-    color: purple;
+    color: #ff7b00;
     background-color: transparent;
     text-decoration: none;
   }
