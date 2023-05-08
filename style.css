@@ -35,3 +35,9 @@ ul {
     margin: 0;
     text-size-adjust: 100%
   }
+  body {
+    background-image: url('https://u.cubeupload.com/tunderwood89/fcfcfc.png');
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+  }
