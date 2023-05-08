@@ -28,5 +28,11 @@ ul {
     text-decoration: none;
   }
   body {
-    font-family: "Ubuntu", sans-serif;
+    height: 100%;
+    overflow: hidden;
+    -webkit-font-smoothing: antialiased;
+    color: black;
+    font-family: Ubuntu;
+    margin: 0;
+    text-size-adjust: 100%
   }
