@@ -27,3 +27,8 @@ ul {
     background-color: transparent;
     text-decoration: none;
   }
+.hr-ob {
+        background-color: #fcfcfc;
+        height:100px;
+        width:100px;
+    }
