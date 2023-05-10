@@ -1,23 +1,23 @@
   a:link {
-    color: #ff7b00;
+    color: #00008b;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:visited {
-    color: #ff7b00;
+    color: #00008b;
     background-color: transparent;
     text-decoration: none;
   }
   
   a:hover {
-    color: #ff7b00;
+    color: #00008b;
     background-color: transparent;
     text-decoration: transparent;
   }
   
   a:active {
-    color: orange;
+    color: #00008b;
     background-color: transparent;
     text-decoration: none;
   }
